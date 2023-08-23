@@ -3,7 +3,7 @@ package com.aatef;
 class Google{
 	void login()
 	{
-		System.out.println("LOGIN WITH THE HELP OF GOOGLE ACCOUNT");
+		System.out.println("LOGIN ");
 	}
 }
 class Drive extends Google{
